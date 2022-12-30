@@ -12,7 +12,7 @@ export default function App() {
         <footer>
           This project was coded by MP. It is{" "}
           <a
-            href="https://github.com/eltirolibre/weather-react-vscode"
+            href="https://github.com/eltirolibre/vscode-weather"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -20,7 +20,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://moonlit-twilight-902ec7.netlify.app"
+            href="https://voluble-tapioca-9342ff.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
